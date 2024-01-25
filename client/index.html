@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Property Price Estimator</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+  <h1>Bengaluru House Prediction</h1>
+  
+  <div class="background-image">
+   
+  </div>
+  <div class="container">
+    <label for="area">Area (Square Feet)</label>
+    <input type="text" id="area" name="area" value="2000">
+
+    <label for="bhk">BHK</label>
+    <select id="bhk" name="bhk">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+    </select>
+
+    <label for="bath">Bath</label>
+    <select id="bath" name="bath">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+    </select>
+
+    <label for="location">Location</label>
+    <select id="location" name="location">
+
+    </select>
+
+    <button type="button" onclick="estimatePrice()">Estimate Price</button>
+    <div class="result" id="estimated-price">110.4 Lakh</div>
+  </div>
+  <script src="main.js"></script>
+</body>
+
+</html>
