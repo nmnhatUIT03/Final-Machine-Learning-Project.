@@ -31,3 +31,15 @@ server/server.py
 ```
 client/index.html
 ```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Python
+*   Jupyter Notebook
+*   HTML
+*   CSS
+*   JS
