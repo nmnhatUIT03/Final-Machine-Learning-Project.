@@ -6,15 +6,15 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/5.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/5.png" alt="project-screenshot" width="680" height="527/">
 
-<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/6.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/6.png" alt="project-screenshot" width="595" height="462/">
 
-<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/7.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/7.png" alt="project-screenshot" width="598" height="475/">
 
-<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/8.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/8.png" alt="project-screenshot" width="583" height="462/">
 
-<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/image.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/nmnhatUIT03/Final-Machine-Learning-Project./blob/main/img/image.png" alt="project-screenshot" width="580" height="350/">
 
 <h2>🛠️ Installation Steps:</h2>
 
